@@ -1,6 +1,6 @@
 import { NavLink as Link } from "react-router";
-import { Button } from "@/components/ui/button"
 import './Home.css'
+import { getRandomInt } from "@/utils/helpers";
 
 function App() {
 
@@ -44,7 +44,7 @@ function App() {
         </section>
 
         <div className="flex flex-col gap-4">
-          <Link to={'/game'} className="
+          <Link to={'/game/' + getRandomInt(1, 20)} className="
             w-full p-3 text-xl font-bold rounded-lg 
             bg-indigo-600 hover:bg-indigo-700 
             text-white uppercase tracking-wider 

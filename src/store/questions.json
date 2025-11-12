@@ -1,0 +1,225 @@
+{
+  "quiz_title": "General Knowledge 20",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital city of Canada?",
+      "options": [
+        {"key": "A", "value": "Toronto"},
+        {"key": "B", "value": "Vancouver"},
+        {"key": "C", "value": "Ottawa"},
+        {"key": "D", "value": "Montreal"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which element has the chemical symbol Fe?",
+      "options": [
+        {"key": "A", "value": "Gold"},
+        {"key": "B", "value": "Silver"},
+        {"key": "C", "value": "Iron"},
+        {"key": "D", "value": "Copper"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "How many days are in a leap year?",
+      "options": [
+        {"key": "A", "value": "365"},
+        {"key": "B", "value": "366"},
+        {"key": "C", "value": "364"},
+        {"key": "D", "value": "367"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        {"key": "A", "value": "Vincent van Gogh"},
+        {"key": "B", "value": "Pablo Picasso"},
+        {"key": "C", "value": "Leonardo da Vinci"},
+        {"key": "D", "value": "Claude Monet"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        {"key": "A", "value": "Jupiter"},
+        {"key": "B", "value": "Mars"},
+        {"key": "C", "value": "Venus"},
+        {"key": "D", "value": "Mercury"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest river in the world?",
+      "options": [
+        {"key": "A", "value": "Amazon River"},
+        {"key": "B", "value": "Nile River"},
+        {"key": "C", "value": "Yangtze River"},
+        {"key": "D", "value": "Mississippi River"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        {"key": "A", "value": "Atlantic Ocean"},
+        {"key": "B", "value": "Indian Ocean"},
+        {"key": "C", "value": "Arctic Ocean"},
+        {"key": "D", "value": "Pacific Ocean"}
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "What is the study of earthquakes called?",
+      "options": [
+        {"key": "A", "value": "Geology"},
+        {"key": "B", "value": "Volcanology"},
+        {"key": "C", "value": "Seismology"},
+        {"key": "D", "value": "Meteorology"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "In computing, what does 'RAM' stand for?",
+      "options": [
+        {"key": "A", "value": "Read Access Memory"},
+        {"key": "B", "value": "Random Access Memory"},
+        {"key": "C", "value": "Remote Access Module"},
+        {"key": "D", "value": "Rapid Application Method"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": [
+        {"key": "A", "value": "Brazil"},
+        {"key": "B", "value": "Mexico"},
+        {"key": "C", "value": "Australia"},
+        {"key": "D", "value": "Indonesia"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What is the main ingredient in guacamole?",
+      "options": [
+        {"key": "A", "value": "Tomato"},
+        {"key": "B", "value": "Avocado"},
+        {"key": "C", "value": "Lime"},
+        {"key": "D", "value": "Cabbage"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Who is credited with inventing the light bulb?",
+      "options": [
+        {"key": "A", "value": "Nikola Tesla"},
+        {"key": "B", "value": "Albert Einstein"},
+        {"key": "C", "value": "Thomas Edison"},
+        {"key": "D", "value": "Alexander Graham Bell"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "The currency of Japan is the:",
+      "options": [
+        {"key": "A", "value": "Yuan"},
+        {"key": "B", "value": "Won"},
+        {"key": "C", "value": "Yen"},
+        {"key": "D", "value": "Ringgit"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the chemical formula for table salt?",
+      "options": [
+        {"key": "A", "value": "H2O"},
+        {"key": "B", "value": "CO2"},
+        {"key": "C", "value": "NaCl"},
+        {"key": "D", "value": "C6H12O6"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which mountain range runs along the west coast of South America?",
+      "options": [
+        {"key": "A", "value": "Himalayas"},
+        {"key": "B", "value": "Rocky Mountains"},
+        {"key": "C", "value": "Alps"},
+        {"key": "D", "value": "Andes"}
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "In the human body, what do red blood cells primarily carry?",
+      "options": [
+        {"key": "A", "value": "Carbon Dioxide"},
+        {"key": "B", "value": "Nutrients"},
+        {"key": "C", "value": "Oxygen"},
+        {"key": "D", "value": "Waste"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "How many continents are there in the world?",
+      "options": [
+        {"key": "A", "value": "6"},
+        {"key": "B", "value": "7"},
+        {"key": "C", "value": "5"},
+        {"key": "D", "value": "8"}
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "The Treaty of Versailles formally ended which war?",
+      "options": [
+        {"key": "A", "value": "American Civil War"},
+        {"key": "B", "value": "World War II"},
+        {"key": "C", "value": "Korean War"},
+        {"key": "D", "value": "World War I"}
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "What is the outermost layer of the Earth called?",
+      "options": [
+        {"key": "A", "value": "Mantle"},
+        {"key": "B", "value": "Core"},
+        {"key": "C", "value": "Crust"},
+        {"key": "D", "value": "Asthenosphere"}
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which sport uses the terms 'birdie,' 'eagle,' and 'bogey'?",
+      "options": [
+        {"key": "A", "value": "Tennis"},
+        {"key": "B", "value": "Golf"},
+        {"key": "C", "value": "Baseball"},
+        {"key": "D", "value": "Bowling"}
+      ],
+      "answer": "B"
+    }
+  ]
+}
